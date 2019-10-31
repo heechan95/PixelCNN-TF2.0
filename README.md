@@ -1,8 +1,8 @@
 # PixelCNN-TF2.0
 
 ## Image Generation(after 10 epochs)
-![Generated Image](sample.png)
+![Generated Image](sample.jpg)
 
 
 ## Occluded Image Completion(after 10 epochs)
-![Completion Image](completion.png)
+![Completion Image](completion.jpg)
